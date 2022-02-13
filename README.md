@@ -12,4 +12,4 @@ In order to start the app the following steps should be done:
 	
 2. Set up your db configuration on file /config/db.config.js
 3. Run npm install
-4. Run npm start
+4. Run npm start...
